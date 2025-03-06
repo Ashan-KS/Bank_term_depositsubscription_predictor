@@ -25,6 +25,6 @@ The **Random Forest classifier** achieves slightly better performance than the *
 - **Random Forest generates fewer false positives (508 vs. 609)** but slightly more **false negatives (282 vs. 271)**.  
 - **Random Forest generalizes better**, as the **Neural Network shows signs of overfitting** with a large gap between **training accuracy (95%)** and **test accuracy (89%)**.  
 
-### **Conclusion**  
+## **Conclusion**  
 Overall, **Random Forest** is more **balanced and robust**, while the **Neural Network** excels slightly in identifying **minority class instances**. The choice of model depends on whether **precision or recall for the minority class** is more important.  
 
